@@ -1,0 +1,46 @@
+/* body {
+    margin: 0; 
+    padding: 0; 
+    background-image: url('image/tournoi.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center center; 
+    height: 100vh; 
+}
+
+.titre_pg_jeux{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3rem 0rem;
+}
+
+.titre_pg_jeux h1{
+    font-size: 5rem;
+    border: 0.3rem solid blueviolet;
+    color:blueviolet ;
+}
+
+.image2 img{
+    display: flex;
+    flex-direction:row;
+    justify-content:flex-end; 
+    height: 20rem;
+}
+
+.niveau{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+}
+
+.niveau label{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
+    color: gray;
+}
+
+.niveau select{
+    border: 0.3rem solid grey;
+} */

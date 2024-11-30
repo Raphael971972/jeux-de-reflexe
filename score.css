@@ -13,9 +13,9 @@ body {
     border-bottom: 1rem solid blue;
 }
 .titre_table h1 {
-    border-bottom: 2rem solid orange;
+    border-bottom: 0.3rem solid orange;
     color: orange;
-    padding: 3rem 0rem 5rem 0rem;
+    /* padding: 0rem 0rem 5rem 0rem; */
 }
 
 .titre_table h1 img{
@@ -29,7 +29,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    font-size: 2rem;
+    font-size: 1.3rem;
 }
 
 .titre_table table {
@@ -43,7 +43,7 @@ body {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, sans-serif;
     background-color: #F77F00;
     border: 0.3rem solid #004080;
-    padding: 0.7rem;
+    padding: 0.3rem;
     text-align: center;
     font-size: 2rem;
 }
